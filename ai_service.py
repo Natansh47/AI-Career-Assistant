@@ -10,8 +10,7 @@ def extract_skills(jd):
     2. Tools
     3. Concepts
 
-    
-    
+
     From this Job Description:
 
     {jd}
